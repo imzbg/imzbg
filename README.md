@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm zbg and I'm from Brazil<br><br>- 🔭 Currently working on PDGH Minecraft Servers<br>- ⚡ In my free time I play Lost Ark and Valorant</p>
+<p align="left">I'm zbg and I'm from Brazil<br><br>- 🔭 Currently working on MineSoup Minecraft Servers<br>- ⚡ In my free time I play MMORPG Games</p>
 
 ###
 
