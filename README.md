@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm zbg and I'm from Brazil<br><br>- 🔭 Currently working on MineSoup Minecraft Servers<br>- ⚡ In my free time I play MMORPG Games</p>
+<p align="left">I'm Bruno and I'm from Brazil<br><br>- 🔭 Currently working on MineSoup Minecraft Servers<br>- ⚡</p>
 
 ###
 
