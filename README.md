@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Bruno and I'm from Brazil<br><br>- 🔭 Currently working on MineSoup Minecraft Servers<br>- ⚡</p>
+<p align="left">I'm Bruno and I'm from Brazil<br><br>- 🔭 Currently working on MineSoup Minecraft Servers</p>
 
 ###
 
