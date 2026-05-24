@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno and I'm from Brazil</h1>
-- 🔭 I’m currently working on [MineSoup Minecraft Servers](https://minesoup.com) 
+- 🔭 I’m currently working on ![MineSoup Minecraft Servers](https://minesoup.com) and ![CraftMania Minecraft Servers](https://craftmania.com.br)
 
 - 📫 How to reach me **contato@imzbg.com** or Discord **imzbg**
 
