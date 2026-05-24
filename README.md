@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno and I'm from Brazil</h1>
-- 🔭 I’m currently working on [MineSoup Minecraft Servers](https://minesoup.com)
+- 🔭 I’m currently working on [MineSoup Minecraft Servers](https://minesoup.com) 
 
 - 📫 How to reach me **contato@imzbg.com** or Discord **imzbg**
 
@@ -11,4 +11,3 @@
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=imzbg&theme=dark&short_numbers=true)](https://git.io/streak-stats)
 ![](https://github-stats-extended.vercel.app/api/top-langs/?username=imzbg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img src="https://raw.githubusercontent.com/imzbg/imzbg/output/snake.svg" alt="Snake animation" />
